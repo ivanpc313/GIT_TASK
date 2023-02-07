@@ -5,5 +5,9 @@ public class FirstVersion {
         System.out.println("First version!");
 
         long h = 65;
+
+        for(int i = 0; i<=h; i++){
+            System.out.println(i);
+        }
     }
 }
