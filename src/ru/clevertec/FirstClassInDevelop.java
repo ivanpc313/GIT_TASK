@@ -10,8 +10,10 @@ public class FirstClassInDevelop {
         System.out.println("Fixed bugs 3");
         System.out.println("Fixed bugs 4");
 
-        int c;
+        int c = 45;
 
-        double g;
+        double g = 0.5;
+
+        double h = c + g;
     }
 }
