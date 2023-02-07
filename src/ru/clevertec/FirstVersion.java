@@ -2,7 +2,7 @@ package ru.clevertec;
 
 public class FirstVersion {
     public static void main(String[] args) {
-        System.out.println("First version!");
+        System.out.println("Version 0,2");
 
         long h = 65;
 
