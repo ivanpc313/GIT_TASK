@@ -7,5 +7,6 @@ public class FirstClassInDevelop {
         System.out.println("Fixed bugs 1");
         System.out.println("Fixed bugs 2");
         System.out.println("Fixed bugs 3");
+        System.out.println("Fixed bugs 4");
     }
 }
