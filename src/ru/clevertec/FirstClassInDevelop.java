@@ -5,5 +5,7 @@ public class FirstClassInDevelop {
         System.out.println("New commit!");
 
         int a;
+
+        double g;
     }
 }
