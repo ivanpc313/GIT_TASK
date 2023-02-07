@@ -4,7 +4,7 @@ public class FirstClassInDevelop {
     public static void main(String[] args) {
         System.out.println("New commit!");
 
-        int a;
+        int c;
 
         double g;
     }
