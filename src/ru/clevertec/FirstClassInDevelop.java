@@ -5,5 +5,6 @@ public class FirstClassInDevelop {
         System.out.println("New commit!");
 
         System.out.println("Fixed bugs 1");
+        System.out.println("Fixed bugs 2");
     }
 }
