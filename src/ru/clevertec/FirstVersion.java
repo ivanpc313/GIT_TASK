@@ -5,8 +5,9 @@ public class FirstVersion {
         System.out.println("Version 0,2");
         long h = 65;
 
-        for(int i = 0; i<=h; i++){
-            System.out.println(i);
+        while (h > 0) {
+            h = h - 1;
+            System.out.println(h);
         }
     }
 }
