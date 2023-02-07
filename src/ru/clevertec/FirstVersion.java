@@ -3,11 +3,11 @@ package ru.clevertec;
 public class FirstVersion {
     public static void main(String[] args) {
         System.out.println("Version 0,2");
-        long h = 65;
+        long p = 65;
 
-        while (h > 0) {
-            h = h - 1;
-            System.out.println(h);
+        while (p > 0) {
+            p = p - 1;
+            System.out.println(p);
         }
     }
 }
